@@ -1,8 +1,8 @@
 # FinRL: A Deep Reinforcement Learning Library for Quantitative Finance [![twitter][1.1]][1] [![facebook][1.2]][2] [![google+][1.3]][3] [![linkedin][1.4]][4]
-[1.1]: http://www.tensorlet.com/wp-content/uploads/2021/01/button_twitter_22x22.png
-[1.2]: http://www.tensorlet.com/wp-content/uploads/2021/01/facebook-button_22x22.png
-[1.3]: http://www.tensorlet.com/wp-content/uploads/2021/01/button_google_22.xx_.png
-[1.4]: http://www.tensorlet.com/wp-content/uploads/2021/01/button_linkedin_22x22.png
+[1.1]: http://www.tensorlet.org/wp-content/uploads/2021/01/button_twitter_22x22.png
+[1.2]: http://www.tensorlet.org/wp-content/uploads/2021/01/facebook-button_22x22.png
+[1.3]: http://www.tensorlet.org/wp-content/uploads/2021/01/button_google_22.xx_.png
+[1.4]: http://www.tensorlet.org/wp-content/uploads/2021/01/button_linkedin_22x22.png
 
 [1]: https://twitter.com/intent/tweet?text=FinRL-A-Deep-Reinforcement-Learning-Library-for-Quantitative-Finance%20&url=hhttps://github.com/AI4Finance-LLC/FinRL-Library&hashtags=DRL&hashtags=AI
 [2]: https://www.facebook.com/sharer.php?u=http%3A%2F%2Fgithub.com%2FAI4Finance-LLC%2FFinRL-Library
@@ -16,13 +16,13 @@
 
 FinRL is an open source library that provides practitioners a unified framework for pipeline strategy development. **In reinforcement learning (or Deep RL), an agent learns by continuously interacting with an environment, in a trial-and-error manner, making sequential decisions under uncertainty and achieving a balance between exploration and exploitation.** The open source community **AI4Finance** (to efficiently automate trading) provides educational resources about deep reinforcement learning (DRL) in quantitative finance. 
 
-**To contribute?**  Please check the call for contributions at the end of this page.
+**To contribute?**  Please check the end of this page.
 
-Feel free to report bugs using Github issues, join our mailing list: [AI4Finance](https://groups.google.com/u/1/g/ai4finance), and discuss FinRL in the slack channel:
+Feel free to report bugs via Github issues, join the mailing list: [AI4Finance](https://groups.google.com/u/1/g/ai4finance), and discuss FinRL in slack channel:
 
 <br/>
 
-<a href="https://join.slack.com/t/ai4financeworkspace/shared_invite/zt-myfwpei8-omxzFpznO~hMvg_FMnYRXg" target="\_blank">
+<a href="https://join.slack.com/t/ai4financeworkspace/shared_invite/zt-oblei8vm-0BLGoXJsEK6dioPjqz_g2g" target="\_blank">
 	<div align="center">
 		<img src=figs/join_slack.png width="40%"/>
 	</div>
@@ -57,32 +57,26 @@ FinRL provides a unified machine learning framework for various markets, SOTA DR
 
 We published [papers in FinTech](http://www.tensorlet.com/projects/ai-in-finance/) and now arrive at this project:
 
-4). [FinRL](https://arxiv.org/abs/2011.09607): A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, Deep RL Workshop, NeurIPS 2020.
-
-3). Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) and [codes](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020), ACM International Conference on AI in Finance, ICAIF 2020.
-
-2). Multi-agent Reinforcement Learning for Liquidation Strategy Analysis, [paper](https://arxiv.org/abs/1906.11046) and [codes](https://github.com/WenhangBao/Multi-Agent-RL-for-Liquidation). Workshop on Applications and Infrastructure for Multi-Agent Learning, ICML 2019.
-
-1). Practical Deep Reinforcement Learning Approach for Stock Trading, [paper](https://arxiv.org/abs/1811.07522) and [codes](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Stock-Trading-DDPG-Algorithm-NIPS-2018), Workshop on Challenges and Opportunities for AI in Financial Services, NeurIPS 2018.
++ 4). [FinRL](https://arxiv.org/abs/2011.09607): A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance, Deep RL Workshop, NeurIPS 2020.
++ 3). Deep Reinforcement Learning for Automated Stock Trading: An Ensemble Strategy, [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3690996) and [codes](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Automated-Stock-Trading-Ensemble-Strategy-ICAIF-2020), ACM International Conference on AI in Finance, ICAIF 2020.
++ 2). Multi-agent Reinforcement Learning for Liquidation Strategy Analysis, [paper](https://arxiv.org/abs/1906.11046) and [codes](https://github.com/WenhangBao/Multi-Agent-RL-for-Liquidation). Workshop on Applications and Infrastructure for Multi-Agent Learning, ICML 2019.
++ 1). Practical Deep Reinforcement Learning Approach for Stock Trading, [paper](https://arxiv.org/abs/1811.07522) and [codes](https://github.com/AI4Finance-LLC/Deep-Reinforcement-Learning-for-Stock-Trading-DDPG-Algorithm-NIPS-2018), Workshop on Challenges and Opportunities for AI in Financial Services, NeurIPS 2018.
 
 # News
-[Towardsdatascience] [FinRL for Quantitative Finance: Tutorial for Single Stock Trading](https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-single-stock-trading-37d6d7c30aac)
-
-[Towardsdatascience] [FinRL for Quantitative Finance: Tutorial for Multiple Stock Trading](https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-multiple-stock-trading-7b00763b7530)
-
-[Towardsdatascience] [FinRL for Quantitative Finance: Tutorial for Portfolio Allocation](https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-portfolio-allocation-9b417660c7cd)
-
-[Towardsdatascience] [Deep Reinforcement Learning for Automated Stock Trading](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
-
-[Analyticsindiamag.com] [How To Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
-
-[量化投资与机器学习] [基于深度强化学习的股票交易策略框架（代码+文档)](https://www.mdeditor.tw/pl/p5Gg)
-
-[运筹OR帷幄] [领读计划NO.10 | 基于深度增强学习的量化交易机器人：从AlphaGo到FinRL的演变过程](https://zhuanlan.zhihu.com/p/353557417)
-
-[Neurohive] [FinRL: глубокое обучение с подкреплением для трейдинга](https://neurohive.io/ru/gotovye-prilozhenija/finrl-glubokoe-obuchenie-s-podkrepleniem-dlya-trejdinga/)
-
-[ICHI.PRO] [양적 금융을위한 FinRL: 단일 주식 거래를위한 튜토리얼](https://ichi.pro/ko/yangjeog-geum-yung-eul-wihan-finrl-dan-il-jusig-geolaeleul-wihan-tyutolieol-61395882412716)
++ [Towardsdatascience] [FinRL for Quantitative Finance: Tutorial for Single Stock Trading](https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-single-stock-trading-37d6d7c30aac)
++ [Towardsdatascience] [FinRL for Quantitative Finance: Tutorial for Multiple Stock Trading](https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-multiple-stock-trading-7b00763b7530)
++ [Towardsdatascience] [FinRL for Quantitative Finance: Tutorial for Portfolio Allocation](https://towardsdatascience.com/finrl-for-quantitative-finance-tutorial-for-portfolio-allocation-9b417660c7cd)
++ [Towardsdatascience] [Deep Reinforcement Learning for Automated Stock Trading](https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02)
++ [Towardsdatascience] [ElegantRL: A Lightweight and Stable Deep Reinforcement Learning Library](https://towardsdatascience.com/elegantrl-a-lightweight-and-stable-deep-reinforcement-learning-library-95cef5f3460b)
++ [MLearning.ai] [ElegantRL Demo: Stock Trading Using DDPG (Part I)](https://elegantrl.medium.com/elegantrl-demo-stock-trading-using-ddpg-part-i-e77d7dc9d208)
++ [MLearning.ai] [ElegantRL Demo: Stock Trading Using DDPG (Part II)](https://medium.com/mlearning-ai/elegantrl-demo-stock-trading-using-ddpg-part-ii-d3d97e01999f)
++ [Analyticsindiamag.com] [How To Automate Stock Market Using FinRL (Deep Reinforcement Learning Library)?](https://analyticsindiamag.com/stock-market-prediction-using-finrl/)
++ [量化投资与机器学习] [基于深度强化学习的股票交易策略框架（代码+文档)](https://www.mdeditor.tw/pl/p5Gg)
++ [运筹OR帷幄] [领读计划NO.10 | 基于深度增强学习的量化交易机器人：从AlphaGo到FinRL的演变过程](https://zhuanlan.zhihu.com/p/353557417)
++ [深度强化实验室] [【重磅推荐】哥大开源“FinRL”: 一个用于量化金融自动交易的深度强化学习库](https://blog.csdn.net/deeprl/article/details/114828024)
++ [矩池云Matpool] [在矩池云上如何运行FinRL股票交易策略框架](http://www.python88.com/topic/111918)
++ [Neurohive] [FinRL: глубокое обучение с подкреплением для трейдинга](https://neurohive.io/ru/gotovye-prilozhenija/finrl-glubokoe-obuchenie-s-podkrepleniem-dlya-trejdinga/)
++ [ICHI.PRO] [양적 금융을위한 FinRL: 단일 주식 거래를위한 튜토리얼](https://ichi.pro/ko/yangjeog-geum-yung-eul-wihan-finrl-dan-il-jusig-geolaeleul-wihan-tyutolieol-61395882412716)
 
 
 # Overview
@@ -268,9 +262,9 @@ Thanks to all the people who contribute.
 </a>
 
 ## Support various markets
-   Would like to support more asset markets, so that the users can test their stategies.
+   Support more markets, so that the users can test their stategies.
 ## SOTA DRL algorithms 
-   Will continue to maintian a pool of DRL algorithms that can be treated as SOTA implementations.
+   Maintain a pool of DRL algorithms that can be treated as SOTA implementations.
 ## Benchmarks for typical trading tasks
    To help quants have better evaluations, will maintain benchmarks for many trading tasks, upon which you can improve for your own tasks.
 ## Support live trading
